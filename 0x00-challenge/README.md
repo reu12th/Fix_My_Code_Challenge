@@ -14,6 +14,5 @@ Something is going wrong….
 
 -   GitHub repository: `Fix_My_Code_Challenge`
 -   Directory: `0x00-challenge`
--   File: `0-fizzbuzz.py`
-
+-   File: `0-fizzbuzz.py`   
 #### <p align="right">`#advance`</p>
