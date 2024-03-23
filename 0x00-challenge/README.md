@@ -49,3 +49,14 @@ Something is going wrong….
 -   Directory: `0x00-challenge`
 -   File: `3-user.py`   
 #### <p align="right">`#advance`</p>
+
+## 4\.  Double linked list
+Fix for the implementation of a Double linked list in C, find the source code [here](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/3-user.py).    
+Something is going wrong….
+
+**Repo:**
+
+-   GitHub repository: `Fix_My_Code_Challenge`
+-   Directory: `0x00-challenge`
+-   File: `4-delete_dnodeint/`   
+#### <p align="right">`#advance`</p>
