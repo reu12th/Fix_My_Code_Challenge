@@ -27,3 +27,14 @@ Something is going wrong….
 -   Directory: `0x00-challenge`
 -   File: `1-print_square.js`   
 #### <p align="right">`#advance`</p>
+
+## 2\. Sort
+Please find here my implementation of sorting arguments in Ruby: [source code](https://github.com/alx-tools/0x00-Fix_My_Code_Challenge/blob/master/2-sort.rb)    
+Something is going wrong….
+
+**Repo:**
+
+-   GitHub repository: `Fix_My_Code_Challenge`
+-   Directory: `0x00-challenge`
+-   File: `2-sort.rb`   
+#### <p align="right">`#advance`</p>
